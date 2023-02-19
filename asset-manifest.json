@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_Furniture/static/css/main.77652d75.css",
+    "main.js": "/React_Furniture/static/js/main.067e7400.js",
+    "static/media/fun.jpeg": "/React_Furniture/static/media/fun.e93076dc069df05ddbb2.jpeg",
+    "index.html": "/React_Furniture/index.html",
+    "main.77652d75.css.map": "/React_Furniture/static/css/main.77652d75.css.map",
+    "main.067e7400.js.map": "/React_Furniture/static/js/main.067e7400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77652d75.css",
+    "static/js/main.067e7400.js"
+  ]
+}
